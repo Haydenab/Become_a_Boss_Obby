@@ -1,0 +1,17 @@
+{
+  "Title": "Become a Boss Obby",
+  "Type": "map",
+  "Org": "agentab",
+  "Ident": "becomeabossobby",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "GameSupport": []
+  }
+}
